@@ -1,2 +1,3 @@
-# udd-ds-c10
-UDD Funcdamentos de Data Science Cohort 10
+# UDD Fundamentos de Data Science Cohort 10
+
+Complementary material for the bootcamp.
