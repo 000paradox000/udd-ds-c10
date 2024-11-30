@@ -24,3 +24,15 @@ Complementary material for the bootcamp.
 
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
+### Week 2 Python para ciencia de datos
+
+- NUMPy
+- Pandas
+
+Exercise: [Análisis de Datos de Ventas](./exercises/pandas/1/README.md)
+
+#### Links
+
+- [Python Tutorial](https://www.w3schools.com/python/)
+- [Python Tutorial](https://docs.python.org/3/tutorial/index.html)
